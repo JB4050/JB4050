@@ -512,7 +512,7 @@
 }
 
 .logo-footer {
-  margin: auto;
+  margin: 2.4rem auto auto auto;
   height: 9.6rem;
 }
 
@@ -574,3 +574,4 @@
 .logo-copy {
   display: inline-block;
 }
+
