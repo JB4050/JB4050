@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I'm currently working on a few small projects to show basic web design that I have been self-studying. These projects are not completed yet, but I am working through them!
 
 <!--
 **JB4050/JB4050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
